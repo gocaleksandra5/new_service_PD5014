@@ -1,0 +1,4 @@
+Potencjalne ryzyka: 
+1. Potencjalne problemy z zapewnieniem bezpieczeństwa danych pacjentów. 
+2. Wzbudzenie poczucia zagubienia u osób starszych, nie posiadających zdolności technologicznych.
+
