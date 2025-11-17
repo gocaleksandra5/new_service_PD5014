@@ -32,7 +32,7 @@ Stworzenie sieci historii pacjenta do której będą mieć dostęp lekarze, pers
 - **README.md** — dokument końcowy.
 
 ## Instrukcja dotycząca pracy z repozytorium i nawigowania: 
-- pobieranie repozytorium z GitHub - git clone https://github.com/<...>/<..>.git
+- pobieranie repozytorium z GitHub - git clone https://github.com/<gocaleksandra5>/<new_service_PD5014>.git
 - cd <new_service>
 - ls - wyświetlanie plików beirzących
 - cd <new_service> - wejście do folderu new_service
