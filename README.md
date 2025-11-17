@@ -28,7 +28,7 @@ Pacjent nie musi nosić ze sobą papierowej dokumentacji medycznej.
 - **ryzyka.txt** — analiza ryzyk związanych z usługą.
 - **ankieta_pacjentów.txt** — zestaw pytań dotyczących opinii pacjentów.
 - **kampania_marketingowa.txt** — działania promocyjne usługi.
-- katalog **images/** z plikiem `.gitkeep` oraz unikalnym logo usługi.
+- katalog **images/** z plikiem `.gitkeep` oraz logo usługi.
 - **README.md** — dokument końcowy.
 
 ## Użyte polecenia GIT i ich zastosowanie
