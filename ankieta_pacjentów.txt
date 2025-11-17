@@ -1,0 +1,3 @@
+Ankieta dla pacjentów:
+1. Czy obawiasz się o bezpieczeństwo swoich danych osobistych? (tak/nie)
+2. Czy uważasz za użyteczne stworzenie takiego serwisu? 
