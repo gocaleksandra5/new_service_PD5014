@@ -35,7 +35,7 @@ Stworzenie sieci historii pacjenta do której będą mieć dostęp lekarze, pers
 1. git touch - Tworzenie nowego pliku
 2. git init - Inicjalizacja repozytorium
 3. git add <plik> - Dodawanie plików do śledzenia
-4. git commit -m "komentarz" - Zatwierdzanie zmian
+4. git commit -m "komentarz" - Tworzenie commitów
 5. git branch marketing - Tworzenie nowej gałęzi
 6. git checkout marketing - Przełączanie gałęzi
 7. git merge marketing - Scalanie gałęzi
