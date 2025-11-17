@@ -32,15 +32,15 @@ Pacjent nie musi nosić ze sobą papierowej dokumentacji medycznej.
 - **README.md** — dokument końcowy.
 
 ## Użyte polecenia GIT i ich zastosowanie
-git touch # Tworzenie nowego pliku
-git init # Inicjalizacja repozytorium
-git add <plik> # Dodawanie plików do śledzenia
-git commit -m "komentarz" # Zatwierdzanie zmian
-git branch marketing # Tworzenie nowej gałęzi
-git checkout marketing # Przełączanie gałęzi
-git merge marketing # Scalanie gałęzi
-git remote add origin <url> # Dodanie repozytorium zdalnego
-git push -u origin master # Wypchnięcie zmian na GitHub
-git tag -a v1.0 -m "wersja" # Tworzenie tagu
-git push origin v1.0 # Wypchnięcie tagu na GitHub
+1. git touch - Tworzenie nowego pliku
+2. git init - Inicjalizacja repozytorium
+3. git add <plik> - Dodawanie plików do śledzenia
+4. git commit -m "komentarz" - Zatwierdzanie zmian
+5. git branch marketing - Tworzenie nowej gałęzi
+6. git checkout marketing - Przełączanie gałęzi
+7. git merge marketing - Scalanie gałęzi
+8. git remote add origin <url> - Dodanie repozytorium zdalnego
+9. git push -u origin master - Wypchnięcie zmian na GitHub
+10. git tag -a v1.0 -m "wersja" - Tworzenie tagu
+11. git push origin v1.0 - Wypchnięcie tagu na GitHub
 
