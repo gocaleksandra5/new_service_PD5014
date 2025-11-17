@@ -31,6 +31,20 @@ Stworzenie sieci historii pacjenta do której będą mieć dostęp lekarze, pers
 - katalog **images/** z plikiem `.gitkeep` oraz logo usługi.
 - **README.md** — dokument końcowy.
 
+## Instrukcja dotycząca pracy z repozytorium i nawigowania: 
+- pobieranie repozytorium z GitHub - git clone https://github.com/<...>/<..>.git
+- cd <new_service>
+- ls - wyświetlanie plików beirzących
+- cd <new_service> - wejście do folderu new_service
+- git branch marketing - Tworzenie nowej gałęzi
+- git checkout marketing - Przełączanie gałęzi
+- git merge marketing - Scalanie gałęzi
+- git checkout master - zmiana na gałąź główną
+- git log - wyświetlanie historii commitów
+- sprawdzanie SHA commitów żeby wrócić do wcześniejszej wersji
+- git show <id_commitu>:<sciezka/do/pliku> - podgląd wersji sprzed zmian
+- git checkout <id_commitu> - przywracanie całego pliku sprzed zmian
+
 ## Użyte polecenia GIT i ich zastosowanie
 1. git touch - Tworzenie nowego pliku
 2. git init - Inicjalizacja repozytorium
