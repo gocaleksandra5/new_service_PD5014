@@ -44,3 +44,14 @@ Pacjent nie musi nosić ze sobą papierowej dokumentacji medycznej.
 10. git tag -a v1.0 -m "wersja" - Tworzenie tagu
 11. git push origin v1.0 - Wypchnięcie tagu na GitHub
 
+## Napotkane problemy i sposoby ich rozwiązania
+
+Problem :
+
+**„fatal: protocol 'https' is not supported” podczas push na GitHub.**
+
+**Rozwiązanie:**  
+Git na komputerze miał wymuszoną obsługę SSH.  
+Zmieniono adres repozytorium na:
+git remote set-url origin git@github.com:gocaleksandra5/new_service_PD5014.git
+Po przełączeniu na SSH polecenie `git push` zaczęło działać poprawnie.
