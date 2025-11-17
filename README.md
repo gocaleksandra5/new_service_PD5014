@@ -13,7 +13,7 @@ Stworzenie sieci historii pacjenta do której będą mieć dostęp lekarze, pers
 - Wygoda dla pacjętów.
 - Skrócenie czasu wizyty.
 
-### **Korzyści dla pacjentów: **
+### Korzyści dla pacjentów: 
 Cała dokumentacja medyczna w jednym miejscu.
 W razie wypadku zagrożenia życia (przez np. wypadek samochodowy) lekarz tylko po danych pacjenta dostaje pełną historię alergii, aktualnych zażywanych lekach oraz dolegliwościach chorobowych.
 Pacjent dostaje szybciej informacje o wynikach. 
